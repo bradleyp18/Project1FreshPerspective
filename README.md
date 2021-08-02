@@ -1,2 +1,2 @@
 # Project1FreshPerspective
-Spotify analysis 
+Spotify Analysis 
